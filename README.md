@@ -4,4 +4,12 @@ The 4th of March 2022, the Argentinian producer Bizarrap and the Puerto Rican ra
 
 It is because the great impact of this polarized event that we have decided to analyze how Twitter’s users have lived the new chapter of this battle between two very relevant artists of Hispanic music. 
 
+## Data acquisition
 
+It is used the educational toolkit, developed by Dr. Mariluz Congosto withing the Web Technologies Laboratory of Universidad Carlos III de Madrid to capture tweets and other Twitter related information related to certain event or topic. Such toolkit is named the **t-hoarder kit**.
+
+## Data visualization
+
+It is used **Gephi** to visualize the possible found networks. First we present a declared network with known artist or influencial people, in order to see if there is any interesting connection. Then a dynamic one is shown using the collected tweets. All the information is explained and presented in the file **report.pdf** and the used images are stored in the folder **images**.
+
+All files employed during the work, from the t-hoarder kit as well as Gephi, are uploaded to the **files** folder, so you can reproduce the nets and the results.
